@@ -6,7 +6,7 @@
 
 ---
 
-### <img src="https://cdn0.iconfinder.com/data/icons/coding-files-icons-rounded/110/Coding-Html-512.png" width="60" height="60"> Comandos Usados:
+### <img src="https://cdn0.iconfinder.com/data/icons/coding-files-icons-rounded/110/Coding-Html-512.png" width="60" height="60"> Detalhes do exercício:
 <img src="https://images.vexels.com/media/users/3/157932/isolated/lists/951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" width="16" height="16"> Exercício para entregar dia 13/08/2019 até as 22:30.
 
 ---
